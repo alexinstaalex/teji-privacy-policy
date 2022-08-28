@@ -14,7 +14,6 @@ export default function Home() {
         <Header title="TEJI - Privacy Policy" />
         <p className="description">
           We do not collect any of your data.
-          The data provided is processed to provide the results to the users.
         </p>
       </main>
 
